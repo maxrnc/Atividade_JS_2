@@ -1,0 +1,9 @@
+:root{
+    --cor-primaria: white;
+    --cor-texto: black;
+}
+
+body{
+    background-color: var(--cor-primaria);
+    color: var(--cor-texto);
+}
